@@ -205,7 +205,7 @@ form {
 }
 
 .price::before {
-  content: '£';
+  content: 'R$';
   font-weight: 300;
   font-size: 1.2rem;
   margin-right: 0.2rem;
@@ -257,7 +257,7 @@ form {
 }
 
 .order-total .total-price::before {
-  content: '£';
+  content: 'R$';
   font-weight: 300;
   margin: 0 0.1rem 0 0.4rem;
 }
@@ -314,7 +314,7 @@ form {
 }
 
 .item-price::before {
-  content: '£';
+  content: 'R$';
   font-weight: 100;
   margin-right: 0.3rem;
 }
@@ -462,7 +462,7 @@ form {
 }
 
 .dialog .topping-price::before {
-  content: '£';
+  content: 'R$';
 }
 
 .delete-topping {
